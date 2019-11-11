@@ -1,0 +1,2 @@
+$ git --version
+git version 2.24.0.windows.2
